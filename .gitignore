@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Third Party Content
+Content/__ExternalActors__
+Content/__ExternalObjects__
+Content/BlackAlder
+Content/Megascans
+Content/MSPresets
+Content/StarterContent
